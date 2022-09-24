@@ -1,0 +1,23 @@
+
+
+
+.seccion{
+    position:relative;
+    Display:flex;
+    
+}
+.col-sm-4
+  {
+      display:grid;
+      justify-content: center;
+      align-items: center;
+      border:solid 1px;
+      border:color Black;
+      text-align:center
+      
+  } 
+
+.img-fluid{
+    height: 350px;
+    width: auto;
+}
